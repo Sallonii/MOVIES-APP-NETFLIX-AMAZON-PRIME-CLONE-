@@ -1,0 +1,9 @@
+.header-container {
+  background-color: rgba(0, 0, 0, 0.416);
+  padding: 2px;
+  min-height: 10vh;
+}
+.logo {
+  color: #e50014;
+  padding-left: 20px;
+}
